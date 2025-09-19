@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(236, 236, 236);
+    background-color: rgba(0, 0, 0, 0);
+}
+html, body {
+    background-color: #575353;
+}
+div {
+    margin-bottom: 5px;
+    color: #1f1f1f;
+}
+
+a {
+    background-color: rgba(0, 0, 0, 0);
+    color: #141414;
+}
